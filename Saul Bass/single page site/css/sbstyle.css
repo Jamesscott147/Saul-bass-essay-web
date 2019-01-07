@@ -1,0 +1,218 @@
+/*---------Main styling------------*/
+
+head{
+    width: 100%;
+    max-width: 1000px;
+}
+    
+         body {
+    width: 100%;
+    max-width: 750px;
+    margin: auto;
+    background: #EE4036;
+    color: ;
+    font-family: 'roboto', sans-serif;
+
+}
+    
+   
+
+    
+
+p{ font-family: 'roboto';
+    font-size: 1.2em;
+    
+}
+
+strong{
+    font-size: 1em;
+}
+    
+  h1 {
+        font-size: 2.908em;
+        margin-top: 0px;
+        margin-bottom: 0.1;
+        text-align: center;
+      font-family: 'oswald';
+      color: aliceblue;
+    }
+    
+    h2 {
+        font-family: 'oswald';
+        font-size: 2.2872em;
+        margin-bottom: none;
+        padding-bottom:none;
+        text-align: center;
+        color:aliceblue;
+    }
+
+
+    
+p a{
+    text-decoration: none;
+    color: white;
+    font-style: normal;
+    
+    
+}
+
+p a:hover{
+    border-bottom: none;
+    color: black;
+    transition: all 0.2s ease-in-out;
+    transition: all 2em ease-in-out;
+    width: 200px;
+}
+    
+    
+
+
+blockquote {
+    hanging-punctuation: first;
+    text-indent: -0.5em;
+}
+    
+    
+    
+
+< /* ---- styling links -----*/>
+
+a:any-link{
+    color: aliceblue;
+    text-align: center;
+}
+a:hover{
+    color: white;
+    text-decoration: none;
+    
+}
+
+a:active{
+ color: #EE4036;
+}
+
+
+.connections {
+    position: relative;
+    margin: auto;
+    margin: 20px, 0px;
+    display: inline;
+}
+
+.connections ul{
+    margin: 0;
+    padding: 0;
+    
+}
+
+.connections li{
+    margin: 0 15px;
+    padding: 0;
+    list-style: none;
+    display: inline-block;
+    
+}
+
+.connections a:link{
+    border-bottom: none;
+}
+
+.connections img{
+    opacity: 0.5;
+    border: none;
+    
+}
+.connections a:hover img {
+    opacity: 1.0;
+    border-bottom: none;
+    transition: all 0.9s ease-in-out;
+    transform: scale(2);
+}
+< /* ---- navigation -----*/>
+
+
+ nav{
+        top: 0;
+        left: 0;
+        margin: 0;
+        width: 100%;
+        background-color: #c06;
+        padding: 1em 0;
+        font-size: 0.75em;
+     text-decoration: none;
+    }
+    
+    nav ul{
+        text-align:center;
+        text-transform: uppercase;
+        letter-spacing:0px;
+        width: 100%;
+        max-width: 1000px;
+    }
+    
+    nav ul li{
+        display: inline;
+        margin: 10px;
+        text-decoration: none;
+        text-decoration-line:underline none;
+    }
+
+    nav a:link{
+        color: black;
+        text-decoration: none;
+        font-family: 'oswald';
+        font-kerning: 100px;
+}
+   
+    
+    nav a:visited {color: black;}
+    
+    nav a:hover {border-bottom: none;
+    color: white;
+    transition: all 0.2s ease-in-out;    
+
+}
+
+
+    
+/* -------------------blockquote--------------------*/
+
+  blockquote{
+        padding: 1em 0 4em 0;
+        font-size: 1.75em;
+        color: #777;
+}
+/* ---------------images---------------------*/
+
+      
+img {
+        display:block;
+        margin:20px,5px,5,5;
+        margin-bottom:3px;
+        max-width: 100%;
+        align-content: center;
+    }
+
+/*-------footer----*/
+
+
+footer{
+        text-align: center;
+        font-size: 0.75em;
+        line-height: 1.5em;
+        
+        
+    }
+
+    hr{
+        margin: 3em 0;
+        height: 1px;
+        background-color: #333;
+        color: #333;
+        border: 0 ;
+    }
+    
+p1{
+    font-size: em;
+    text-align: left;
+}
