@@ -1,3 +1,2 @@
-# Saul-bass-essay-web
-[Single page website]
-(https://jamesscott147.github.io/Saul-bass-essay-web/sb.html) 
+# SaulBass
+[Saul-Bass-essay-website](https://jamesscott147.github.io/Saul-Bass-essay-web/sb.html)
